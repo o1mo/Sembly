@@ -1,6 +1,6 @@
 # Sembly
 
-> Share events with friends
+> React Native mobile app to share events with friends
 
 ## Team
 
